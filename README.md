@@ -4,3 +4,4 @@ Este repositório contém exemplos para imputação de valores para Missing Valu
 - Imputação de Média
 - Imputação de Mediana
 - Imputação do Valor Mais Frequente
+- Imputação de Métricas Diferentes para atributos
