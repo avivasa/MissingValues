@@ -6,3 +6,4 @@ Este repositório contém exemplos para imputação de valores para Missing Valu
 - Imputação do Valor Mais Frequente
 - Imputação de Métricas Diferentes para atributos
 - Imputação da Categoria Missing para Dados Categóricos e Média para Numéricos
+- Imputação de Indicador de Missing
